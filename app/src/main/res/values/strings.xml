@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid App Compose</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="global">Global</string>
+    <string name="confirmed">Confirmed: </string>
+    <string name="death">Death: </string>
+</resources>
